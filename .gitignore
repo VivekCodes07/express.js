@@ -1,0 +1,17 @@
+# Dependencies
+node_modules/
+
+# Environment variables (sensitive)
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Package lock (optional for learning repos)
+package-lock.json
